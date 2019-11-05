@@ -1,4 +1,4 @@
-*.m linguist-language=JavaScript
-*.h linguist-language=JavaScript
-*.java linguist-language=JavaScript
+*.m linguist-language=javascript
+*.h linguist-language=javascript
+*.java linguist-language=javascript
 
