@@ -1,7 +1,8 @@
 *.m linguist-language=javascript
 *.h linguist-language=javascript
 *.java linguist-language=javascript
-*.js linguist-language=javascript 
-*.css linguist-language=javascript  
+*.js linguist-language=javascript
+*.css linguist-language=javascript 
 *.html linguist-language=javascript 
-
+*.xml linguist-language=javascript
+*.plist linguist-language=javascript
