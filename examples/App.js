@@ -29,8 +29,8 @@ export default class App extends Component<Props> {
 
           <RNWaves
            isWave={true}
-           wave1Color={'rgba(255,255,255,0.5)'}
-           wave2Color={'rgba(255,255,255,0.8)'}
+           wave1Color={'rgba(240,240,240,0.9'}
+           wave2Color={'rgba(255,255,255,0.9)'}
           />
 
        </View>
